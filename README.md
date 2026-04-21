@@ -8,8 +8,8 @@ I am a Data Science Master’s graduate with backgrounds in Business Administrat
 - Python (Pandas, NumPy)
 
 **Data Visualization:**
-- Power BI
-- Tableau (basic exposure)
+- Power BI (basic exposure)
+- Tableau 
 - Matplotlib / Seaborn
 
 **Tools & Platforms:**
